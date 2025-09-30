@@ -1,5 +1,5 @@
 import './App.css'
-import UseContextExample from './components/useContextExample/UseContextExample';
+import UseContextExample from './components/UseContextExample/UseContextExample';
 
 function App() {
   return (
