@@ -1,10 +1,10 @@
 import './App.css'
-import UseCallbackExample from './components/UseCallbackExample';
+import UseContextExample from './components/useContextExample/UseContextExample';
 
 function App() {
   return (
     <>
-      <UseCallbackExample />
+      <UseContextExample />
     </>
   )
 }
